@@ -12,7 +12,11 @@
 
 ###
 
-<p align="left">Andreas (Andi) Brühl - prospective Dev Ops developer, specializing in backend<br><br>Sebastian (Basti) Hufeld - prospective Dev Ops developer, specializing in frontend<br><br>Anja (Angie) Brühl - prospective app developer (Flutter) specializing in frontend</p>
+<p align="left">
+  [Andreas (Andi) Brühl](https://github.com/AndiBruehl) - prospective Dev Ops developer, specializing in backend<br><br>
+  [Sebastian (Basti) Hufeld](https://github.com/BastiWho) - prospective Dev Ops developer, specializing in frontend<br><br>
+  [Anja (Angie) Brühl](https://github.com/Queengirl1990) - prospective app developer (Flutter) specializing in frontend
+</p>
 
 ###
 
