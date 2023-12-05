@@ -1,4 +1,4 @@
-<div align="center">
+s<div align="center">
   <img height="150" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"  />
 </div>
 
@@ -13,9 +13,9 @@
 ###
 
 <p align="left">
-  <a href="https://github.com/AndiBruehl">Andreas (Andi) Brühl</a> - prospective Dev Ops developer, specializing in backend<br><br>
-  <a href="https://github.com/BastiWho">Sebastian (Basti) Hufeld</a> - prospective Dev Ops developer, specializing in frontend<br><br>
-  <a href="https://github.com/Queengirl1990">Anja (Angie) Brühl</a> - prospective app developer (Flutter) specializing in frontend
+  <a href="https://github.com/AndiBruehl">Andreas (Andi) Brühl</a> - prospective Dev Ops Developer, specializing in Backend<br><br>
+  <a href="https://github.com/BastiWho">Sebastian (Basti) Hufeld</a> - prospective Dev Ops Developer, specializing in Frontend<br><br>
+  <a href="https://github.com/Queengirl1990">Anja (Angie) Brühl</a> - prospective App Developer (Flutter) specializing in Frontend
 </p>
 
 ###
