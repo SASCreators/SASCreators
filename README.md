@@ -13,9 +13,9 @@
 ###
 
 <p align="left">
-  [Andreas (Andi) Brühl](https://github.com/AndiBruehl) - prospective Dev Ops developer, specializing in backend<br><br>
-  [Sebastian (Basti) Hufeld](https://github.com/BastiWho) - prospective Dev Ops developer, specializing in frontend<br><br>
-  [Anja (Angie) Brühl](https://github.com/Queengirl1990) - prospective app developer (Flutter) specializing in frontend
+  <a href="https://github.com/AndiBruehl">Andreas (Andi) Brühl</a> - prospective Dev Ops developer, specializing in backend<br><br>
+  <a href="https://github.com/BastiWho">Sebastian (Basti) Hufeld</a> - prospective Dev Ops developer, specializing in frontend<br><br>
+  <a href="https://github.com/Queengirl1990">Anja (Angie) Brühl</a> - prospective app developer (Flutter) specializing in frontend
 </p>
 
 ###
@@ -24,6 +24,6 @@
 
 ###
 
-<h3 align="left">🔥   Our Stats :</h3>
+<h3 align="left">🔥   My Stats :</h3>
 
 ###
